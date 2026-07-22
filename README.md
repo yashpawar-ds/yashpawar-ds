@@ -31,11 +31,10 @@ College, Alandi, Pune
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## Projects
-| Project | Description | Tools |
-|---|---|---|
-| [IMDB Movies Analysis](https://github.com/yashpawar-ds/imdb-movies-analysis) | EDA on IMDB Top 1000 Movies dataset | Python, Pandas, Matplotlib |
-| [Cafe Sales Analysis](https://github.com/yashpawar-ds/cafe-sales-analysis) | Data cleaning and EDA on messy cafe sales dataset | Python, Pandas, Matplotlib |
+| Project | Description | Tools | Kaggle |
+|---|---|---|---|
+| [IMDB Movies Analysis](https://github.com/yashpawar-ds/imdb-movies-analysis) | EDA on IMDB Top 1000 Movies dataset | Python, Pandas, Matplotlib | - |
+| [Cafe Sales Analysis](https://github.com/yashpawar-ds/cafe-sales-analysis) | Data cleaning and EDA on messy cafe sales dataset | Python, Pandas, Matplotlib | [Notebook](https://www.kaggle.com/code/yashpawar7053/cafe-sales-dirty-data-cleaning-and-eda) |
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar-aaa6ba382/)
