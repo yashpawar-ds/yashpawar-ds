@@ -23,7 +23,7 @@ College, Alandi, Pune
 ## What I'm currently doing
 - 🔭 Building data analysis projects using Python and Pandas
 - 🌱 Learning SQL and data visualization
-- 🎯 Goal: Paid Data Analyst internship by Sem 3-4
+- 🎯 Working toward my first industry experience in data analytics
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
