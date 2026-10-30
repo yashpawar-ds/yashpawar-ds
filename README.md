@@ -35,6 +35,7 @@ College, Alandi, Pune
 |---|---|---|---|
 | [IMDB Movies Analysis](https://github.com/yashpawar-ds/imdb-movies-analysis) | EDA on IMDB Top 1000 Movies dataset | Python, Pandas, Matplotlib | - |
 | [Cafe Sales Analysis](https://github.com/yashpawar-ds/cafe-sales-analysis) | Data cleaning and EDA on messy cafe sales dataset | Python, Pandas, Matplotlib | [Notebook](https://www.kaggle.com/code/yashpawar7053/cafe-sales-dirty-data-cleaning-and-eda) |
+| [Global Semiconductor Supply Chain](https://github.com/yashpawar-ds/global-semiconductor-supply-chain) | Analysis of chip trade, sanctions & AI investment, with a Power BI dashboard | Python, Pandas, Matplotlib, Power BI | [Notebook](https://www.kaggle.com/code/yashpawar7053/global-ai-hardware-supply-chain-sanctions-invest) |
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar-aaa6ba382/)
